@@ -11,24 +11,24 @@ https://www.figma.com/proto/8I8f7cHHLYZ4qVFyv5k8JX/%D7%90%D7%91%D7%98%D7%99%D7%A
       - Performed detailed hierarchical and cognitive task analyses.
       - Identified UX issues, including unclear navigation, insufficient user feedback, and high cognitive load.
 
-###🛠️ UX/UI Design Solutions using Figma
+### UX/UI Design Solutions using Figma
       - We tackled three key usability problems:
          1. Unclear tab labels → Introduced clear, consistent naming and better hierarchy.
          2. Lack of feedback → Added immediate, clear feedback messages after key actions.
          3. Insufficient user guidance → Implemented dynamic, contextual hints.
 
-###🧪 Structured Usability Testing
+### Structured Usability Testing
       - We tested our improved prototype using:
          1. Usability Test: Task completion scenarios measured by performance metrics (time, errors, clicks).
          2. Questionnaire: Post-task survey assessing user satisfaction and subjective feedback.
 
-###📊 Key Results:
+### Key Results:
       - ⏱️ Task time reduced by 18%.
       - 🖱️ Click count reduced by 19%.
       - ❌ Slight increase in errors for specific tasks.
       - 😊 User satisfaction remained unchanged (avg. 3.6/7).
 
-###💡 Insights & Next Steps
+### Insights & Next Steps
       - The redesign successfully improved navigation ease and efficiency in certain tasks but introduced
          complexity in others. Based on test results, we recommended:
          1. Strengthening visibility and impact of feedback messages.
