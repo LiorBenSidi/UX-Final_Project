@@ -6,7 +6,7 @@ We applied a comprehensive Human-Centered Design approach — from field observa
 ####Link to the Figma prototype:
 https://www.figma.com/proto/8I8f7cHHLYZ4qVFyv5k8JX/%D7%90%D7%91%D7%98%D7%99%D7%A4%D7%95%D7%A1-SAP?page-id=26%3A11&node-id=86-80&viewport=480%2C793%2C0.16&t=ZnhVOQa2X1l37zBP-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=86%3A80&show-proto-sidebar=1
 
-###🔍 User Research & Task Analysis
+### User Research & Task Analysis
       - Conducted user observations with both novice and experienced students.
       - Performed detailed hierarchical and cognitive task analyses.
       - Identified UX issues, including unclear navigation, insufficient user feedback, and high cognitive load.
