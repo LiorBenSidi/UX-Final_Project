@@ -1,4 +1,4 @@
-# UX-Final_Project
+# UX - Final Project
 
 As part of the "Human Factors Engineering" course, my partner and I analyzed and redesigned the SAP portal for submitting degree completion requests at the Technion(הגשת גמר תואר).
 
