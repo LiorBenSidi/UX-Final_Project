@@ -3,7 +3,7 @@
 As part of the "Human Factors Engineering" course, my partner and I analyzed and redesigned the SAP portal for submitting degree completion requests at the Technion(הגשת גמר תואר).
 
 We applied a comprehensive Human-Centered Design approach — from field observations and detailed task analysis to prototyping using Figma and structured usability testing.
-####Link to the Figma prototype:
+#### Link to the Figma prototype:
 https://www.figma.com/proto/8I8f7cHHLYZ4qVFyv5k8JX/%D7%90%D7%91%D7%98%D7%99%D7%A4%D7%95%D7%A1-SAP?page-id=26%3A11&node-id=86-80&viewport=480%2C793%2C0.16&t=ZnhVOQa2X1l37zBP-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=86%3A80&show-proto-sidebar=1
 
 ### User Research & Task Analysis
